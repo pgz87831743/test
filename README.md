@@ -1,2 +1,2 @@
 # test
-This is a test respostory
+This is a test respository
